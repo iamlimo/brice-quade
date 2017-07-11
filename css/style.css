@@ -54,7 +54,7 @@
 }
 
 #banner {
-    background: url('file:///C:/Users/Admin/Desktop/briceandquade/images/view.jpg') no-repeat;
+    background: url('/images/view.jpg') no-repeat;
     height: 600px;
 }
 
